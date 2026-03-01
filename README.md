@@ -1,2 +1,2 @@
 # exams_42
-My solutions to exams questions
+A guide to study to 42 exams. Remember to always understand the code and give your little touch to the solution =)
